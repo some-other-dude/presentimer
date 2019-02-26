@@ -3,13 +3,13 @@ PresenTimer
 ===========
 
 
-Add a short description here!
+A presentation timer for RaspberryPi
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+A presentation timer for RaspberryPi
 
 
 Note
